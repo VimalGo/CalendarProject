@@ -1,0 +1,33 @@
+D:\My Projects\Calendar\Calendar\bin\Debug\Calendar.exe.config
+D:\My Projects\Calendar\Calendar\bin\Debug\Calendar.exe
+D:\My Projects\Calendar\Calendar\bin\Debug\Calendar.pdb
+D:\My Projects\Calendar\Calendar\obj\Debug\Calendar.csprojResolveAssemblyReference.cache
+D:\My Projects\Calendar\Calendar\obj\Debug\MainWindow.baml
+D:\My Projects\Calendar\Calendar\obj\Debug\MainWindow.g.cs
+D:\My Projects\Calendar\Calendar\obj\Debug\App.g.cs
+D:\My Projects\Calendar\Calendar\obj\Debug\Calendar_MarkupCompile.cache
+D:\My Projects\Calendar\Calendar\obj\Debug\Calendar.g.resources
+D:\My Projects\Calendar\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+D:\My Projects\Calendar\Calendar\obj\Debug\Calendar.csproj.GenerateResource.Cache
+D:\My Projects\Calendar\Calendar\obj\Debug\Calendar.exe
+D:\My Projects\Calendar\Calendar\obj\Debug\Calendar.pdb
+D:\My Projects\Calendar\Calendar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\My Projects\Calendar\Calendar\obj\Debug\Calendar_MarkupCompile.lref
+D:\Data & Softwares\My Projects\Calendar\Calendar\bin\Debug\Calendar.exe.config
+D:\Data & Softwares\My Projects\Calendar\Calendar\bin\Debug\Calendar.exe
+D:\Data & Softwares\My Projects\Calendar\Calendar\bin\Debug\Calendar.pdb
+D:\Data & Softwares\My Projects\Calendar\Calendar\obj\Debug\MainWindow.g.cs
+D:\Data & Softwares\My Projects\Calendar\Calendar\obj\Debug\App.g.cs
+D:\Data & Softwares\My Projects\Calendar\Calendar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Data & Softwares\My Projects\Calendar\Calendar\obj\Debug\Calendar_MarkupCompile.cache
+D:\Data & Softwares\My Projects\Calendar\Calendar\obj\Debug\Calendar_MarkupCompile.lref
+D:\Data & Softwares\My Projects\Calendar\Calendar\obj\Debug\MainWindow.baml
+D:\Data & Softwares\My Projects\Calendar\Calendar\obj\Debug\Calendar.g.resources
+D:\Data & Softwares\My Projects\Calendar\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+D:\Data & Softwares\My Projects\Calendar\Calendar\obj\Debug\Calendar.csproj.GenerateResource.Cache
+D:\Data & Softwares\My Projects\Calendar\Calendar\obj\Debug\Calendar.exe
+D:\Data & Softwares\My Projects\Calendar\Calendar\obj\Debug\Calendar.pdb
+D:\Data & Softwares\My Projects\Calendar\Calendar\obj\Debug\Calendar.csprojResolveAssemblyReference.cache
+D:\Data & Softwares\Practice Projects\Calendar\Calendar\bin\Debug\Calendar.exe.config
+D:\Data & Softwares\Practice Projects\Calendar\Calendar\obj\Debug\Calendar.exe
+D:\Data & Softwares\Practice Projects\Calendar\Calendar\obj\Debug\Calendar.pdb
